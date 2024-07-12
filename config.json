@@ -1,0 +1,11 @@
+{
+    "server": "vael.town",
+    "home-timeline-length": 200,
+    "max-followings": 80,
+    "max-bookmarks": 80,
+    "max-favourites": 40,
+    "max-followers": 80,
+    "from-notifications": 1,
+    "reply-interval-in-hours": 0,
+    "from-lists": 1
+}

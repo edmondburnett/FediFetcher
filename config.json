@@ -6,6 +6,6 @@
     "max-favourites": 40,
     "max-followers": 80,
     "from-notifications": 1,
-    "reply-interval-in-hours": 24,
+    "reply-interval-in-hours": 2,
     "from-lists": 1
 }
